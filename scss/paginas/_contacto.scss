@@ -9,8 +9,8 @@ body{
 
 body {
     .secctioncontacto{
-        background-color: $colorsegundario;
-        color: $colorprincipal;
+        background-color: map-get($colores, secundario );
+        color: map-get($colores, primario );
         height: 110vh;
         border-radius: 30px;
         padding: 10vh;

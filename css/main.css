@@ -1,3 +1,6 @@
+/* mixin */
+/* maps */
+/* Extend */
 * {
   margin: 0;
   padding: 0; }
@@ -14,7 +17,6 @@ body{
     background-color: $colorprincipal;
 } */
 body .secctioncontacto {
-  background-color: #eeeeee;
   color: #484c54;
   height: 110vh;
   border-radius: 30px;
